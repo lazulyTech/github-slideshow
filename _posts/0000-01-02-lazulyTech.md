@@ -3,6 +3,6 @@ layout: slide
 title: "2枚目のスライドにようこそ！"
 ---
 
-Hello Everyone
+Hello Guys!
 
 I'm Lazuly!
